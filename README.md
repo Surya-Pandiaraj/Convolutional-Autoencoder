@@ -2,7 +2,7 @@
 ### REG NO: 212224230280 <br> 
 ### Date: 11/03/2026
 
-# Convolutional Autoencoder for Image Denoising
+## EX. No. 7 : CONVOLUTIONAL AUTOENCODER FOR IMAGE DENOISING
 
 ## AIM
 
